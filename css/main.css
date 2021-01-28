@@ -565,5 +565,11 @@ iframe {
   margin-left: auto;
 }
 
+.logo{
+  margin-bottom: 12px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: center;
+}
 
 
