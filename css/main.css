@@ -293,6 +293,7 @@ iframe {
   color: #888888;
   background-color: #fff;
 	width:100%;
+	text-decoration: none;
 }
 
 .btn-google img {
