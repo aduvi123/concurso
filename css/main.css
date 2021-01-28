@@ -280,6 +280,7 @@ iframe {
 .btn-face {
   color: #fff;
   background-color: #3b5998;
+	text-decoration: none;
 }
 
 .btn-face i {
