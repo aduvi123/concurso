@@ -290,6 +290,7 @@ iframe {
 .btn-google {
   color: #888888;
   background-color: #fff;
+	width:100%;
 }
 
 .btn-google img {
