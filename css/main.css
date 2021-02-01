@@ -207,6 +207,7 @@ iframe {
   color: #555555;
   line-height: 1.2;
   text-align: center;
+	padding-bottom: 0px;
 }
 
 .login1000-form-title {
