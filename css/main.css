@@ -189,6 +189,8 @@ iframe {
   background: #fff;
   border-radius: 10px;
   position: relative;
+	padding-top: 0px;
+}
 }
 
 
